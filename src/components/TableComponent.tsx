@@ -1,4 +1,3 @@
-// src/components/TableComponent.tsx
 import React, { useState } from "react";
 import { carData, Car } from "../data/data";
 

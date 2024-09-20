@@ -1,4 +1,3 @@
-// src/components/FilterComponent.tsx
 import React, { useState } from "react";
 
 interface FilterComponentProps {
